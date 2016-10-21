@@ -1,9 +1,14 @@
 # django-vagrant-tutorial
-
-Instructions:
-<i><b>For windows users, go to this link and download: https://git-scm.com/ . This will install git, git bash ( super important ). Git Bash will allow you to run terminal commands similar to a Mac ( which you'd need to go through tutorial below ) </b></i>
+If you haven't done so, install vagrant and virtualbox:
+<ul>
+  <li>https://www.vagrantup.com/</li>
+  <li>https://www.virtualbox.org/wiki/Downloads</li>
+  <li><b>For windows users, go to this link and download: https://git-scm.com/ . This will install git, git bash ( super important ). Git Bash will allow you to run terminal commands similar to a Mac ( which you'd need to go through tutorial below ) </b>
+  </li>
+</ul>
 <div>
   <h1>Learn some terminal commands:</h1>
+  If you're using windows, open up "Git Bash", assuming you've already done the above. For mac/any unix users, open up terminal
   http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
   Most common commands that you'd need to familiarize yourself are:
   <ul>
